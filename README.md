@@ -27,8 +27,8 @@ I'm a Senior Process Engineer transitioning into data analysis and data science.
 
 ## 📈 Projects
 
-* I'm actively building a portfolio of projects that apply data analysis to discover new insights and solve complex business challenges.
-* My past work includes automating a manual data collection process using **Python**, which reduced a weekly task from 8 hours to just a few minutes.
+* I'm actively building a [portfolio of projects](https://github.com/KingRyan72/KingRyan) that apply data analysis to discover new insights and solve complex business challenges.
+* Driven by a passion for uncovering hidden patterns, I **love to explore data** to find the key insights that can inform strategic decisions. My projects often start with a simple question and evolve into a deeper dive into the data, **aiming to reveal valuable and actionable information**.
 
 ---
 
