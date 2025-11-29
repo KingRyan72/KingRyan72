@@ -1,6 +1,6 @@
 # Hello, I'm Edgar 👋
 
-I'm a Senior Process Engineer transitioning into data analysis and data science. My goal is to apply my expertise in process improvement and systems thinking to solve complex data challenges.
+**Data-Driven Process Optimization Specialist.** I leverage deep expertise in **process engineering and systems thinking** to extract actionable insights, drive efficiency, and solve complex business challenges with data analysis and data science methodologies.
 
 ---
 
